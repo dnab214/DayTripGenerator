@@ -1,3 +1,3 @@
 # DayTripGenerator
-pythonproject1
+DayTripGenerator
 Deondre's First Repo
